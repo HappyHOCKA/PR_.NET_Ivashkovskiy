@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR2\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\InsufficientFoundExctption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR2\\InsufficientFoundExctption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\SavingAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR2\\SavingAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\CheckingAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PR2\\CheckingAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\BankAccount.cs",
+              "RelativeDocumentMoniker": "PR2\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\BankAccount.cs",
+              "RelativeToolTip": "PR2\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:35:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsufficientFoundExctption.cs",
+              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\InsufficientFoundExctption.cs",
+              "RelativeDocumentMoniker": "PR2\\InsufficientFoundExctption.cs",
+              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\InsufficientFoundExctption.cs",
+              "RelativeToolTip": "PR2\\InsufficientFoundExctption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:34:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "PR2\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\CheckingAccount.cs",
+              "RelativeToolTip": "PR2\\CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:33:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "PR2\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\SavingAccount.cs",
+              "RelativeToolTip": "PR2\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T08:32:25.732Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR_1\\Program.cs",
-              "RelativeDocumentMoniker": "PR_1\\Program.cs",
-              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR_1\\Program.cs",
-              "RelativeToolTip": "PR_1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\Program.cs",
+              "RelativeDocumentMoniker": "PR2\\Program.cs",
+              "ToolTip": "C:\\Users\\illya\\source\\repos\\PR_.NET_Ivashkovskiy\\PR2\\Program.cs",
+              "RelativeToolTip": "PR2\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAcwKoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T06:06:31.319Z",
+              "WhenOpened": "2026-11-16T08:31:39.823Z",
               "EditorCaption": ""
             }
           ]
