@@ -1,0 +1,15 @@
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\bin\Debug\net10.0\PR_1.exe
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\bin\Debug\net10.0\PR_1.deps.json
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\bin\Debug\net10.0\PR_1.runtimeconfig.json
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\bin\Debug\net10.0\PR_1.dll
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\bin\Debug\net10.0\PR_1.pdb
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.AssemblyInfoInputs.cache
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.AssemblyInfo.cs
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.dll
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\refint\PR_1.dll
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.pdb
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.genruntimeconfig.cache
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\ref\PR_1.dll
+C:\Users\illya\source\repos\PR_.NET_Ivashkovskiy\PR_1\obj\Debug\net10.0\PR_1.csproj.Up2Date
